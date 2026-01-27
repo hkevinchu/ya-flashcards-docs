@@ -15,8 +15,8 @@ This site hosts the public documentation for the Flashcard iOS app.
 - [Data Inventory](privacy/data-inventory/)
 
 ## Product / Project Docs
-- [PRD](general/PRD.md)
-- [NFRs](general/NFR.md)
-- [MVP Scope](general/MVP_SCOPE.md)
-- [Roadmap](general/FlashcardApp_Roadmap.md)
-- [Branding Assets Checklist](general/BRANDING_ASSETS.md)
+- [PRD](general/prd/)
+- [NFRs](general/nfr/)
+- [MVP Scope](general/mvp-scope/)
+- [Roadmap](general/roadmap/)
+- [Branding Assets Checklist](general/branding-assets/)
