@@ -1,11 +1,9 @@
 # Flashcard iOS App Docs
 
-This repository’s documentation is published via **GitHub Pages**.
+This repository contains the documentation source for the Flashcard iOS app.
 
-## Documentation Site
+## Public Documentation Site (GitHub Pages)
 - Home: https://hkevinchu.github.io/flashcard-ios-app-docs/
-
-## Quick Links
 - Privacy Policy: https://hkevinchu.github.io/flashcard-ios-app-docs/privacy/
 - Data Inventory: https://hkevinchu.github.io/flashcard-ios-app-docs/privacy/data-inventory/
 
