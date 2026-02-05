@@ -1,13 +1,13 @@
 ---
-title: Flashcard iOS App Documentation
+title: YA Flashcard App Documentation
 ---
 
-# Flashcard iOS App Documentation
+# YA Flashcard App Documentation
 
-This site hosts the public documentation for the Flashcard iOS app.
+This site hosts the public documentation for the YA Flashcard app.
 
 ## Repositories
-- App source code: https://github.com/hkevinchu/flashcard-ios-app
+- App source code: https://github.com/hkevinchu/ya-flashcard-app
 - Documentation source: https://github.com/hkevinchu/ya-flashcards-docs
 
 ## Privacy
