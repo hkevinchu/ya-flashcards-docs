@@ -8,7 +8,7 @@ This site hosts the public documentation for the Flashcard iOS app.
 
 ## Repositories
 - App source code: https://github.com/hkevinchu/flashcard-ios-app
-- Documentation source: https://github.com/hkevinchu/flashcard-ios-app-docs
+- Documentation source: https://github.com/hkevinchu/ya-flashcards-docs
 
 ## Privacy
 - [Privacy Policy](privacy/)
