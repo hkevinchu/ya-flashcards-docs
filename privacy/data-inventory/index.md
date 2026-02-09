@@ -1,6 +1,6 @@
 # Data Inventory & Data Flow Mapping (A6.1)
 
-Last updated: 2026-01-20  
+Last updated: 2026-02-09  
 Owner: Kevin  
 App: Flashcard iOS App (iPhone + iPad)
 
@@ -43,7 +43,9 @@ This document is the source of truth for what data the app collects, stores, and
 ### External third-party services
 - **Google Apps Script Web App + Google Sheets**
   - Used only for optional in-app feedback submissions
+  - Feedback is stored in a Google Sheet named "Feedback" in the "YAFlashcards" Google Shared Drive
   - Anonymous submissions allowed (unless user voluntarily provides email)
+  - Diagnostics (device model, iOS version, locale, app version, build number) are included by default but can be toggled off by the user before submitting
   - Basic abuse protection via shared secret token in the JSON payload
 
 ---
@@ -81,11 +83,11 @@ The app does **not** collect:
 ---
 
 ## Verification Checklist
-- [ ] Confirm iCloud sync is enabled and used for user decks/cards (SwiftData + iCloud)
-- [ ] Confirm no additional network calls exist beyond feedback submission
-- [ ] Confirm no analytics/ads SDKs are present
-- [ ] Confirm feedback fields written to Google Sheet match the table above
-- [ ] Confirm TTS is on-device only and no audio is stored or uploaded
+- [x] Confirm iCloud sync is enabled and used for user decks/cards (SwiftData + iCloud)
+- [x] Confirm no additional network calls exist beyond feedback submission
+- [x] Confirm no analytics/ads SDKs are present (zero external dependencies)
+- [x] Confirm feedback fields written to Google Sheet match the table above
+- [x] Confirm TTS is on-device only (AVSpeechSynthesizer) and no audio is stored or uploaded
 
 ---
 

@@ -63,7 +63,7 @@ If you use the in-app feedback feature, the App may collect:
 User content is stored locally on your device and synced using Apple iCloud. This sync is associated with your Apple ID. The developer does not operate their own backend for storing your flashcard content.
 
 ### Feedback (Google Sheets via Google Apps Script)
-When you submit feedback, the App sends your feedback data over the network to a Google Apps Script web endpoint, which writes the submission to a Google Sheet. This feature is optional.
+When you submit feedback, the App sends your feedback data over the network to a Google Apps Script web endpoint, which writes the submission to a Google Sheet controlled by the developer. Feedback includes device and app metadata by default to help with debugging; you can turn this off before submitting. This feature is optional.
 
 ## Third-party services
 The App uses:

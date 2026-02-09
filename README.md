@@ -8,5 +8,5 @@ This repository contains the documentation source for the Flashcard iOS app.
 - Data Inventory: https://hkevinchu.github.io/ya-flashcards-docs/privacy/data-inventory/
 
 ## Repositories
-- App source code: https://github.com/hkevinchu/flashcard-ios-app
+- App source code: https://github.com/hkevinchu/ya-flashcards-app
 - Documentation source (this repo): https://github.com/hkevinchu/ya-flashcards-docs

@@ -7,7 +7,7 @@ title: YA Flashcard App Documentation
 This site hosts the public documentation for the YA Flashcard app.
 
 ## Repositories
-- App source code: https://github.com/hkevinchu/ya-flashcard-app
+- App source code: https://github.com/hkevinchu/ya-flashcards-app
 - Documentation source: https://github.com/hkevinchu/ya-flashcards-docs
 
 ## Privacy
